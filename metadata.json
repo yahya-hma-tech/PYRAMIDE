@@ -1,0 +1,6 @@
+{
+  "name": "Pyramide Ascenseur Fès - Dépannage & Maintenance Maroc",
+  "description": "Société d'ascenseurs à Fès, Maroc. Installation, réparation, modernisation et dépannage urgent 24h/7. Intervention rapide à Fès et partout au Maroc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
